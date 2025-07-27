@@ -1,0 +1,7 @@
+listen: true
+port: 8000
+
+basicAuthMode: true
+basicAuthUser:
+  username: "rinacr244"
+  password: "241208dre?"
